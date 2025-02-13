@@ -4,31 +4,31 @@
       "@context": "https://schema.org",
       "@type": "CreativeWork",
       "id": "01",
-      "name": "glaicer freeze",
-      "description": "icy flavor",
+      "name": "sports drink",
+      "flavor": "icy flavor",
       "color": "blue"
     },
     {
       "@context": "https://schema.org",
-      "@type": "CreativeWork",
+      "@type": "sports drink",
       "id": "02",
       "name": "fruit punch",
-      "description": "assortment of fruit favors",
+      "flavor": "assortment of fruit favors",
       "color": "red"
     },
     {
       "@context": "https://schema.org",
-      "@type": "CreativeWork",
+      "@type": "sports drink",
       "id": "03",
       "name": "grape",
-      "description": "iconic artificial grape flavor",
+      "flavor": "iconic artificial grape flavor",
       "color": "purple"
     }
   ],
   "users": [
     {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "digimon",
       "id": "01",
       "name": "Guilmon",
       "rank": "rookie",
@@ -36,7 +36,7 @@
     },
     {
       "@context": "https://schema.org",
-      "@type": "Person",
+      "@type": "digimon",
       "id": "02",
       "name": "Gabumon",
       "rank": "rookie",
