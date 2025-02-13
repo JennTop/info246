@@ -29,18 +29,18 @@
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "id": "1",
-      "name": "Johan Cruyff",
-      "description": "Love this ball! It is perfect for juggling.",
-      "itemId": "1"
+      "id": "01",
+      "name": "Guilmon",
+      "rank": "rookie",
+      "attribute": "virus"
     },
     {
       "@context": "https://schema.org",
       "@type": "Person",
-      "id": "2",
-      "name": "Steve Jobs",
-      "description": "This laptop is okay. My mac laptop was better.",
-      "itemId": "3"
+      "id": "02",
+      "name": "Gabumon",
+      "rank": "rookie",
+      "attribute": "virus"
     }
   ],
   "collection": {
