@@ -1,19 +1,21 @@
 {
-  "users": [
+  "users": 
+  [
     {
-      "id": "1",
+      "id": "01",
       "username": "Guilmon",
       "level": "rookie",
       "attribute": "virus"
     },
     {
-      "id": "2",
+      "id": "02",
       "username": "Gabumon",
       "level": "rookie",
       "attribute": "virus"
     },
   ],
-  "items": [
+  "items": 
+  [
     {
     "id": "01",
     "name": "fruit punch",
