@@ -231,9 +231,8 @@
   "collection": {
     "@context": "https://schema.org/",
     "@type": "Collection",
-    "name": "jasonclark's API",
-    "creator": "jasonclark",
-    "about": "A collection of items or things or stuff",
-    "url": "https://www.jasonclark.info"
+    "name": "prototype",
+    "creator": "JennTop",
+    "about": "assignment",
   }
 }
