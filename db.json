@@ -3,7 +3,7 @@
     {
       "@type": "sports drink",
       "id": "01",
-      "name": "sports drink",
+      "name": "glacier freeze",
       "flavor": "icy flavor",
       "color": "blue"
     },
@@ -35,7 +35,7 @@
       "id": "02",
       "name": "Gabumon",
       "rank": "rookie",
-      "attribute": "virus"
+      "attribute": "vaccine"
     }
   ],
   "collection": {
