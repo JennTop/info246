@@ -1,11 +1,38 @@
 {
-  "posts": [
+  "users": [
     {
-      "id": 1,
-      "title": "hello"
+      "id": "1",
+      "username": "Guilmon",
+      "level": "rookie",
+      "attribute": "virus"
+    },
+    {
+      "id": "2",
+      "username": "Gabumon",
+      "level": "rookie",
+      "attribute": "virus"
+    },
+  ],
+  "items": [
+    {
+    "id": "01",
+    "name": "fruit punch",
+    "color": "red"
+    },
+    {
+    "id": "02",
+    "name": "glacier freeze",
+    "color": "blue"
+    },
+    {
+    "id": "03",
+    "name": "grape",
+    "color": "purple"
     }
   ],
-  "profile": {
-    "name": "typicode"
+  "collection": {
+    "@type": "Collection",
+    "creator": "JennTop"
+    "about": "assignment creating a prototype API"
   }
 }
