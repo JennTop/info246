@@ -29,7 +29,7 @@
       "name": "Guilmon",
       "rank": "rookie",
       "attribute": "virus",
-      "itemid": "02"
+      "itemId": "02"
     },
     {
       "@type": "digimon",
@@ -37,7 +37,7 @@
       "name": "Gabumon",
       "rank": "rookie",
       "attribute": "vaccine",
-      "itemid": "03"
+      "itemId": "03"
     }
   ],
   "collection": {
