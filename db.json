@@ -28,14 +28,16 @@
       "id": "01",
       "name": "Guilmon",
       "rank": "rookie",
-      "attribute": "virus"
+      "attribute": "virus",
+      "itemid": "02"
     },
     {
       "@type": "digimon",
       "id": "02",
       "name": "Gabumon",
       "rank": "rookie",
-      "attribute": "vaccine"
+      "attribute": "vaccine",
+      "itemid": "03"
     }
   ],
   "collection": {
