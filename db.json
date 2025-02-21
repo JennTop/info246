@@ -2,21 +2,21 @@
   "items": [
     {
       "@type": "sports drink",
-      "id": "01",
+      "id": "1",
       "name": "glacier freeze",
       "flavor": "icy flavor",
       "color": "blue"
     },
     {
       "@type": "sports drink",
-      "id": "02",
+      "id": "2",
       "name": "fruit punch",
       "flavor": "assortment of fruit favors",
       "color": "red"
     },
     {
       "@type": "sports drink",
-      "id": "03",
+      "id": "3",
       "name": "grape",
       "flavor": "iconic artificial grape flavor",
       "color": "purple"
@@ -29,7 +29,7 @@
       "name": "Guilmon",
       "rank": "rookie",
       "attribute": "virus",
-      "itemId": "02"
+      "itemId": "2"
     },
     {
       "@type": "digimon",
@@ -37,7 +37,7 @@
       "name": "Gabumon",
       "rank": "rookie",
       "attribute": "vaccine",
-      "itemId": "03"
+      "itemId": "3"
     }
   ],
   "collection": {
